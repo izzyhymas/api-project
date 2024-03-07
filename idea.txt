@@ -1,9 +1,9 @@
 * AmiiboAPI *
 * https://amiiboapi.com/ *
 
-* Catogorize Amiibo's based on their game
-* Get detailed information about Amiibo's
+* Catogorize Amiibo's based on their game.
+* Get detailed information about Amiibo's.
 * Have a User Collection so they can add and store
-* the Amiibo's they have
+* the Amiibo's they have.
 * Gives recomendations on what Amiibo's user should
-* have based on the games they are playing
+* have based on the games they are playing.
